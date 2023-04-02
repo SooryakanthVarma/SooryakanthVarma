@@ -9,7 +9,7 @@ Thank you for visiting!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sooryakanthvarma&label=Profile%20views&color=0e75b6&style=flat" alt="sooryakanthvarma" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://in.linkedin.com/in/sooryakanth-varma-1a11b5213](https://in.linkedin.com/in/sooryakanth-varma-1a11b5213)
+- 👨‍💻 All my Details are available at [https://in.linkedin.com/in/sooryakanth-varma-1a11b5213](https://in.linkedin.com/in/sooryakanth-varma-1a11b5213)
 
 - 📫 How to reach me **https://in.linkedin.com/in/sooryakanth-varma-1a11b5213**
 
