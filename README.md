@@ -2,6 +2,8 @@
 - 🔭 I’m currently working on Jetpack compose
 - 🌱 I’m currently learning Flutter
 - 👯 I’m currently working on https://perfectzdigital.com
+
+Thank you for visiting!
 <!--
 **SooryakanthVarma/SooryakanthVarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
