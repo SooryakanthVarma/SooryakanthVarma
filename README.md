@@ -1,4 +1,5 @@
-### Hi there 👋
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://sooryakanthvarma)
+
 - 🔭 I’m currently working on Jetpack compose
 - 🌱 I’m currently learning Flutter
 - 👯 I’m currently working on https://perfectzdigital.com
@@ -15,7 +16,7 @@ Thank you for visiting!
 
 - 📫 How to reach me **https://in.linkedin.com/in/sooryakanth-varma-1a11b5213**
 
-- 📄 Know about my experiences [1 year](1 year)
+- 📄 Know about my experiences (1 year)
 
 - ⚡ Fun fact **I am funny**
 
