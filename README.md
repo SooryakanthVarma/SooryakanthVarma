@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://sooryakanthvarma)
 
-- 🔭 I’m currently working in Jetpack compose
+- 🔭 I’m currently focusing on Jetpack compose
 - 🌱 I’m currently learning Flutter
 - 👯 I’m currently working on https://perfectzdigital.com
 
