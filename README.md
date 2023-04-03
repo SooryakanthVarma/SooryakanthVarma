@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Flutter
 - 👯 I’m currently working on https://perfectzdigital.com
 
-Thank you for visiting!
 <h1 align="center">Hi 👋, I'm Sooryakanth Varma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
@@ -37,3 +36,5 @@ Thank you for visiting!
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sooryakanthvarma&show_icons=true&locale=en" alt="sooryakanthvarma" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sooryakanthvarma&" alt="sooryakanthvarma" /></p>
+
+<h1 align="center">Thank you for visiting!</h1>
